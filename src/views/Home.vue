@@ -1,6 +1,8 @@
 <template>
   <div class="home">
     <p>aaaaaa</p>
+    <p>aaaaaa</p>
+
     <Header />
     <HWrapper>
       <Balloon message="Try!">
